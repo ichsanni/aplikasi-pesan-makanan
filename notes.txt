@@ -1,0 +1,15 @@
+APLIKASI KAFETARIA UNTUK MEMESAN MAKAN MALAM
+
+Tech stack: ReactJS
+Basic usage: read & write localStorage
+
+Fungsi:
+- Menu makanan (hard-coded, simulasi JSON API) >  dapat disort berdasarkan ketersediaan
+    - Nama makanan
+    - Harga
+    - Ketersediaan (boolean)
+    - Informasi kalori
+    - Vegan (boolean)
+    - Gambar *jika sempat
+- Pesanan (sessionStorage)
+- Histori pesanan (localStorage)
