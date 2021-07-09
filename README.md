@@ -14,7 +14,7 @@
 - Fungsi histori pemesanan tidak dibuat, dan fungsi pemesanan makanan tidak berubah secara otomatis karena tidak melalui state.
 
 ## Screenshot aplikasi
-![Tampilan menu makanan](http://github.com/ichsanni/aplikasi-pesan-makanan/blob/main/src/1.png)
+![Tampilan menu makanan](https://raw.githubusercontent.com/ichsanni/aplikasi-pesan-makanan/main/src/1.png)
 Menampilkan semua makanan, harga, dan ketersediaan.
-![Tampilan daftar pesanan](http://github.com/ichsanni/aplikasi-pesan-makanan/blob/main/src/2.png)
+![Tampilan daftar pesanan](https://raw.githubusercontent.com/ichsanni/aplikasi-pesan-makanan/main/src/2.png)
 Menampilkan makanan yang telah dipesan dan disimpan di sessionStorage.
