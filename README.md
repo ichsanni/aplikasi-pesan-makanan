@@ -15,6 +15,9 @@
 
 ## Screenshot aplikasi
 ![Tampilan menu makanan](https://raw.githubusercontent.com/ichsanni/aplikasi-pesan-makanan/main/src/1.png)
+
 Menampilkan semua makanan, harga, dan ketersediaan.
+
 ![Tampilan daftar pesanan](https://raw.githubusercontent.com/ichsanni/aplikasi-pesan-makanan/main/src/2.png)
+
 Menampilkan makanan yang telah dipesan dan disimpan di sessionStorage.
