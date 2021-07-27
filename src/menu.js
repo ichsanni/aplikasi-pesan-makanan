@@ -3,7 +3,6 @@ import { AddOrderButton, OrderFoodComponent } from './order.js';
 
 export class MenuComponent extends React.Component {
     getMenu(){
-        // Simulasikan API JSON
         const daftarMenu = [{id:'0', tersedia:true, namaMakanan:'Kentang Goreng', harga:'25000', infoKalori:'211', deskripsi:'Kentang goreng instan digoreng dadakan'},
                             {id:'1', tersedia:true, namaMakanan:'Nasi Goreng', harga:'35000', infoKalori:'267', deskripsi:'Nasi goreng instan digoreng dadakan'},
                             {id:'2', tersedia:true, namaMakanan:'Mie Goreng', harga:'15000', infoKalori:'321', deskripsi:'Mie goreng instan digoreng dadakan'},
